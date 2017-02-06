@@ -7,10 +7,11 @@
 // Paddings
 body {
   margin: 0;
-  font-family: Open-sans, sans-serif;
+  font-family: $base-font;
 }
 h1, h2, h3 {
-  font-family: Raleway, Helvetica, sans-serif;
+  // font-family: $header-font;
+  font-family: 'Varela Round', sans-serif;
 }
 h2 {
   font-size: 28px;
@@ -22,5 +23,5 @@ h2 {
   padding: 100px 0;
 }
 .wrapper-grey {
-  background: #F4F4F4;
+  background: $yellow;
 }
