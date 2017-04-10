@@ -5,23 +5,8 @@
  * ------------------------------------- */
 
 // Paddings
-body {
-  margin: 0;
+
+h2 {
   font-family: $base-font;
 }
-h1, h2, h3 {
-  // font-family: $header-font;
-  font-family: 'Varela Round', sans-serif;
-}
-h2 {
-  font-size: 28px;
-  font-weight: bold;
-  margin-bottom: 30px;
-  margin-top: 0;
-}
-.padded {
-  padding: 100px 0;
-}
-.wrapper-grey {
-  background: $yellow;
-}
+

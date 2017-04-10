@@ -2,9 +2,9 @@
  * Fonts
  * ------------------------------------- */
 // Google fonts
-@import url('https://fonts.googleapis.com/css?family=VT323|Varela+Round');
-$base-font: 'VT323', monospace;
-$header-font: 'Varela Round', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Asset|Titillium+Web:400,700');
+$base-font: 'Titillium Web', sans-serif;
+$header-font: 'Asset', cursive;
 
 // Local fonts (uncomment following lines)
 // @font-face {
@@ -19,6 +19,7 @@ $header-font: 'Varela Round', sans-serif;
 // Font-size and line-height
 $base-size: 16px;
 $base-height: 1.4;
+$header-size: 20px;
 
 /* -------------------------------------
  * Colors

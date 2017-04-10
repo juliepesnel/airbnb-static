@@ -1,9 +1,11 @@
 .features img {
   width: 100px;
+  background-color: grey;
 }
 .features h2 {
   font-size: 20px;
   margin-bottom: 10px;
+  color: grey;
 }
 .features p {
   font-size: 15px;
